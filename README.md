@@ -26,9 +26,12 @@ Tech Stack:
 
 Installation:
 - Clone the repository:
+
   git clone https://github.com/atreyishukla/TaskTurtle.git
 
   cd TaskTurtle
+
+
 
 - Create and activate a virtual environment:
 
@@ -38,25 +41,37 @@ Installation:
 
   venv\Scripts\activate # On Windows
 
+  
+
 - Install backend dependencies:
 
   pip install -r requirements.txt
+
+  
 
 - Run the backend:
 
   python app/main.py
 
+  
+
 - Navigate to the frontend folder:
 
   cd frontend
 
+
+
 - Install frontend dependencies:
 
   npm install
+
+  
   
 - Start the frontend development server:
 
   npm run dev
+
+  
   
 - Open your browser and go to:
 
