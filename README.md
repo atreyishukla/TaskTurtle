@@ -51,7 +51,7 @@ Installation:
 
 - Run the backend:
 
-  python app/main.py
+  uvicorn app.main:app --reload
 
   
 
